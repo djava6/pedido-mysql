@@ -1,2 +1,0 @@
-# pedido-mysql
-Pedido MySQL
